@@ -9,8 +9,8 @@ I build warm, minimal interfaces, realtime social tools, and server-side gamepla
   <a href="https://github.com/St1ch/glyph">
     <img src="https://img.shields.io/badge/GLYPH-main%20project-6F9821?style=for-the-badge&labelColor=221D15&color=6F9821" />
   </a>
-  <a href="https://modrinth.com/user/St1ch">
-    <img src="https://img.shields.io/badge/Modrinth-St1ch-84B82C?style=for-the-badge&logo=modrinth&logoColor=221D15&labelColor=FCF8F1" />
+  <a href="https://modrinth.com/user/CloudDev">
+    <img src="https://img.shields.io/badge/Modrinth-CloudDev-84B82C?style=for-the-badge&logo=modrinth&logoColor=221D15&labelColor=FCF8F1" />
   </a>
   <a href="https://github.com/St1ch">
     <img src="https://img.shields.io/badge/GitHub-St1ch-6B6356?style=for-the-badge&logo=github&logoColor=FCF8F1&labelColor=221D15" />
