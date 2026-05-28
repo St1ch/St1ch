@@ -98,7 +98,7 @@ I build warm, minimal interfaces, realtime social tools, and server-side gamepla
         <a href="https://github.com/St1ch/Ghost-Frames">
           <img src="https://img.shields.io/badge/source-GitHub-6B6356?style=flat-square&logo=github&logoColor=FCF8F1&labelColor=221D15" />
         </a>
-        <a href="https://modrinth.com/plugin/ghost-frames">
+        <a href="https://modrinth.com/plugin/ghost-frames-plugin">
           <img src="https://img.shields.io/badge/download-Modrinth-6F9821?style=flat-square&logo=modrinth&logoColor=FCF8F1&labelColor=221D15" />
         </a>
       </p>
